@@ -1,4 +1,17 @@
 .Introduction{
     background-image:url("https://theterramarproject.org/dc-archive/wp-content/uploads/2017/12/mike-lewis-179929-600x320.jpg");
+    background-position: center;
+    background-size: cover;
+    
 
 };
+.h1{
+font-size: 30px;
+text-align: center;
+};
+.mainheader{
+    font-size: 30px;
+}
+body{
+    font-size: 20px;
+}
