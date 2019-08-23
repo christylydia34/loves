@@ -15,9 +15,10 @@ This is my first landing page that showcases few of the projects i have been wor
 -CSS.
 
 # CONTACT
+You can contact me through christinegikandi@gmail.com
 
 # LICENSE
 License MIT License (MIT)
 
-Copyright (c) 2019 Muhindo Kiro
+Copyright (c) 2019 Christine Lydia
 # loves
