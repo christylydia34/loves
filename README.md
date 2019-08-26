@@ -1,5 +1,5 @@
 # MY PROJECT NAME
-MY LANDING PAGE.https://christylydia34.github.io/loves/
+MY LANDING PAGE.https://christylydia34.github.io/my-portfolio/
 
 # AUTHOR
 Christine Lydia
@@ -21,4 +21,4 @@ You can contact me through christinegikandi@gmail.com
 License MIT License (MIT)
 
 Copyright (c) 2019 Christine Lydia
-# loves
+# my-portfolio
